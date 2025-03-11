@@ -1,0 +1,22 @@
+# Node Modules
+**/node_modules/
+
+# Build
+dist/
+out/
+
+# Cashe
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# TypeScript
+tsconfig.tsbuildinfo
